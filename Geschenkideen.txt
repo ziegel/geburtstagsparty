@@ -1,3 +1,5 @@
 Kochbuch
 Computer
 Abonnement auf c't
+How-to book about web design
+Raspberry 4, incl. power supply, battery and case
